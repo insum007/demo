@@ -1,4 +1,4 @@
-package com.pds.demo.entity;
+package com.adib.demo.entity;
 
 public enum Type {
 	

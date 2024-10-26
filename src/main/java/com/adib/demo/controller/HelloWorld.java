@@ -1,4 +1,4 @@
-package com.pds.demo.controller;
+package com.adib.demo.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -8,10 +8,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.pds.demo.entity.MessageTemplate;
-import com.pds.demo.entity.MimeType;
-import com.pds.demo.entity.Type;
-import com.pds.demo.repository.MessageTemplateRespository;
+import com.adib.demo.entity.MessageTemplate;
+import com.adib.demo.entity.MimeType;
+import com.adib.demo.entity.Type;
+import com.adib.demo.repository.MessageTemplateRespository;
 
 import jakarta.annotation.PostConstruct;
 
